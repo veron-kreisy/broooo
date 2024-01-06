@@ -2,6 +2,16 @@
     text-align: center;
     margin: auto;
     padding: auto;
-    color: blue;
+    color: rgb(62, 62, 252);
+
+}
+#first{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+#first.hover{
+    background: #000 ;
+    cursor: pointer;
 
 }
