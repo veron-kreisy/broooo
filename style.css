@@ -5,3 +5,8 @@
     justify-content: center;
     margin: 20px;
 }
+ .navbar.hover{
+background-color: black;
+color: white;
+}
+
