@@ -15,3 +15,20 @@
     cursor: pointer;
 
 }
+#second{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    gap: 2rem;
+}
+#third{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    gap: 2rem;
+}
+.city{
+    text-align: center;
+    justify-content: center;
+}
+
