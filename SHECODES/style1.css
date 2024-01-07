@@ -105,3 +105,7 @@ p {
     text-align: center;
     font-family: monospace;
 }
+.weather h1, .weather h2, .weather h3 {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
