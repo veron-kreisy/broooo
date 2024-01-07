@@ -78,3 +78,30 @@ p {
     text-align: center;
     font-family: monospace;
 }
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+button {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #1a64d6;
+    background: #1a64d6;
+    color: #fff;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 16px 24px;
+    border-radius: 30px;
+    transition: all 200ms ease;
+    box-shadow: rgba(37,39,89,0.08) 0px 8px 8px 0;
+    cursor: pointer;
+}
+p {
+    font-size: 18px;
+    opacity: 0.7;
+    text-align: center;
+    font-family: monospace;
+}
