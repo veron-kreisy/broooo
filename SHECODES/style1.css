@@ -14,6 +14,10 @@ h2 {
     line-height: 48px;
     font-weight: 400;
 }
+    
+h2.hover{
+    color: chocolate;
+}
 ul,.weather{
     padding: 0;
 }
