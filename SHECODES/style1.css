@@ -1,37 +1,4 @@
- /* #hero{ 
-    text-align: center;
-    margin: auto;
-    padding: auto;
-    color: rgb(62, 62, 252);
 
-}
-#first{
-    text-align: center;
-    margin: auto;
-    padding: auto;
-}
-#first.hover{
-    background: #000 ;
-    cursor: pointer;
-
-}
- #second{ 
-    text-align: center;
-    margin: auto;
-    padding: auto;
-    gap: 2rem;
-}
-#third{
-    text-align: center;
-    margin: auto;
-    padding: auto;
-    gap: 2rem;
-}
-.city{
-    text-align: center;
-    justify-content: center;
-}
- */
  div {
     display: block;
 }
