@@ -15,9 +15,8 @@ h2 {
     font-weight: 400;
 }
     
-h2:hover{
-    color: chocolate;
-}
+
+
 ul,.weather{
     padding: 0;
 }
